@@ -13,5 +13,5 @@ NC='\033[0m' # No Color
 
 # --- Display the Message ---
 printf "\n"
-printf "${MAGENTA}Hello from Unnati!${NC}\n"
+printf "${MAGENTA}Hello chiha!${NC}\n"
 printf "\n"
